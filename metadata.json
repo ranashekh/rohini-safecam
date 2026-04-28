@@ -1,0 +1,13 @@
+{
+  "name": "Rohini Safecam",
+  "description": "Professional CCTV Sales, Installation, Repair, and AMC Services in Hingalganj, North 24 Parganas. Protect what matters with high-quality security solutions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "CCTV Installation",
+    "CCTV Repair",
+    "AMC Services",
+    "Security Consultancy"
+  ]
+}
